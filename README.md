@@ -1,0 +1,2 @@
+# librecoin
+The LibreCoin CryptoCurrency
